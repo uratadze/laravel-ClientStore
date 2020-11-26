@@ -1,4 +1,11 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+## About Project
+[AdminStore](https://github.com/uratadze/laravel-AdminStore) is already published
+
+This project is available to anyone, You can use, edit and modify as you like, For this you need to some option, first: you need to download project and run some commands:
+- [php artisan migrate](https://laravel.com/docs/8.x/migrations)
+
+And run project:
+- php artisan serve
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
